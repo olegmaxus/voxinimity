@@ -9,9 +9,9 @@ Repository contains 3 approaches:
 - VCGAN
 
 ## Used Data
-
+```
 Data was used to evaluate models is https://www.openslr.org/12
-
+```
 ## Before run
 ```
 pip install -r requirements.txt 
@@ -30,3 +30,6 @@ pip install -r requirements.txt
 ```
 
 ## Running the project
+```
+One can run the project code with opening it with Google Colab or Conda Environment Jupyter Notebook on your own device. 
+```
