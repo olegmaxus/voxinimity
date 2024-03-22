@@ -1,10 +1,16 @@
 # voxinimity
 LPC voice anonymization project - Skoltech ML 2024
 
+This is the repo for the team project LPC based voice anonymization.
+
 Repository contains 3 approaches:
 - McAdams
 - S2T+TTS
 - VCGAN
+
+## Used Data
+
+Data was used to evaluate models is https://www.openslr.org/12
 
 ## Before run
 ```
@@ -22,3 +28,5 @@ pip install -r requirements.txt
 ├── Literature              # Papers we used in this project
 └── README.md
 ```
+
+## Running the project
