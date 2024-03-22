@@ -31,7 +31,7 @@ pip install -r requirements.txt
 
 ## Running the project
 ```
-One can run the project code with opening it with Google Colab or
-Conda Environment Jupyter Notebook on your own device. .py files can be run also on
-your device with IDLE like Spyder, Visual Studio etc.
+One can run the project code with opening it with Google Colab or Conda Environment Jupyter Notebook on their own device.
+
+However, the implementation of CycleGAN is based on regular python files, and so that to run the CycleGAN-based method, one has to run `python3 vc_gan/main.py [params]` to achieve the desired output.
 ```
