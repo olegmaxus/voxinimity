@@ -14,5 +14,6 @@ pip install -r requirements.txt
 ├── vc_gan                  # VCGAN directory
 ├── requirements.txt        # Requirements file
 ├── demo                    # Demo audio files
+├── Literature              # Papers we used in this project
 └── README.md
 ```
