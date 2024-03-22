@@ -1,6 +1,11 @@
 # voxinimity
 LPC voice anonymization project - Skoltech ML 2024
 
+Repository contains 3 approaches:
+- McAdams
+- S2T+TTS
+- VCGAN
+
 ## Before run
 ```
 pip install -r requirements.txt 
